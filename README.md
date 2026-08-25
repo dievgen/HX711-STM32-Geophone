@@ -15,6 +15,7 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
 
 * **Hardware / Firmware (`Infrasound Lab`):** Interfaces with the 24-bit sensor on STM32 pins `PB8`/`PB9`, handles Two's Complement sign extensions, and outputs high-throughput serial frames.
 * **Desktop GUI (`seis2sound.py`):** Python application that manages the serial accumulator, dynamic ring buffers (up to 40,000 samples), digital filtering, spectral transformations, and audio rendering.
+* ![schematic](HX711-STM32-Geophone.JPG)
 
 ## Tech Stack
 
