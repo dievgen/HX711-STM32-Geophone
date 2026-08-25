@@ -87,7 +87,7 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
   +-------------------------------------------------------------+
 ## User Interface Overview
 
-* ![schematic](HX711-STM32-App.JPG)
+* ![App GUI](HX711-STM32-App.JPG)
 
 * **Establish Connection: Select your serial COM port (e.g., COM8) in the Control Panel and click Connect.
 * **Zero Offset: Ensure Enable DC Correction under DC Baseline Engine is active to continuously subtract baseline offset (Current Bias) from incoming raw counts.
