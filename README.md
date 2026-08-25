@@ -49,7 +49,7 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
 ---
 
 ## Architecture & Data Flow
-'''text
+```text
   +-------------------------------------------------------------+
   |                   HARDWARE ACQUISITION                      |
   |                                                             |
@@ -84,7 +84,7 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
   |            v                                                |
   |  [ Audio Resampler / Seismic Sonification Audio Engine ]    |
   +-------------------------------------------------------------+
-  '''text
+```
 
 ## User Interface Overview
 
