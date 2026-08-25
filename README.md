@@ -86,7 +86,9 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
   |  [ Audio Resampler / Seismic Sonification Audio Engine ]    |
   +-------------------------------------------------------------+
 ## User Interface Overview
-* ![App GUI](HX711-STM32-App.JPG)
+
+* ![schematic](HX711-STM32-App.JPG)
+
 * **Establish Connection: Select your serial COM port (e.g., COM8) in the Control Panel and click Connect.
 * **Zero Offset: Ensure Enable DC Correction under DC Baseline Engine is active to continuously subtract baseline offset (Current Bias) from incoming raw counts.
 * **Manual Scaling: Toggle Enable Manual Y-Limits and enter an amplitude threshold (e.g., 5000) to lock vertical scaling on the top oscilloscope view.
