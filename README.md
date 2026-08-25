@@ -49,8 +49,6 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
 ---
 
 ## Architecture & Data Flow
-
-```text
   +-------------------------------------------------------------+
   |                   HARDWARE ACQUISITION                      |
   |                                                             |
@@ -85,6 +83,7 @@ An end-to-end telemetry system designed to capture, visualize, record, and sonif
   |            v                                                |
   |  [ Audio Resampler / Seismic Sonification Audio Engine ]    |
   +-------------------------------------------------------------+
+
 ## User Interface Overview
 
 * ![App GUI](HX711-STM32-App.JPG)
