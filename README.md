@@ -28,7 +28,7 @@ Flash the firmware onto your STM32 target.
 Install Python dependencies:
 ```bash
 # Clone the repository and install requirements
-git clone [https://github.com/your-username/stm32-seismic-monitor.git](https://github.com/your-username/stm32-seismic-monitor.git)
+git clone [https://github.com/dievgen/stm32-seismic-monitor.git](https://github.com/dievgen/stm32-seismic-monitor.git)
 cd stm32-seismic-monitor
 pip install PyQt6 pyqtgraph pyserial numpy
 ```
